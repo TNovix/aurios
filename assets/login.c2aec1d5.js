@@ -1,1 +1,0 @@
-import{i as r,t as a,a as n}from"./index.3e57a439.js";const o=a("<p></p>"),l=()=>{const t=()=>{let e=new URLSearchParams(n().search).get("code");return e==null||e==""?"invalid":"valid"};return(()=>{const e=o.cloneNode(!0);return r(e,t),e})()};export{l as default};
